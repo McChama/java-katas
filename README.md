@@ -39,6 +39,11 @@ You are going to be given an array of integers. Your job is to take that array a
   <strong>Output:</strong> The lowest index N where the side to the left of N is equal to the side to the right of N. If you do not find an index that fits these rules, then you will return -1.
 </details>
 
+## [Remove Chars](https://github.com/McChama/java-katas/blob/master/src/com/company/RemoveChars.java)
+It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string.
+
+You don't have to worry with strings with less than two characters.
+
 ## [Smallest Integer Finder](https://github.com/McChama/java-katas/blob/master/src/com/company/SmallestIntegerFinder.java)
 Given an array of integers your solution should find the smallest integer.
 
