@@ -44,6 +44,12 @@ It's pretty straightforward. Your goal is to create a function that removes the 
 
 You don't have to worry with strings with less than two characters.
 
+## [Reversed String](https://github.com/McChama/java-katas/blob/master/src/com/company/ReversedStrings.java)
+Complete the solution so that it reverses the string passed into it.
+```
+'world'  =>  'dlrow'
+'word'   =>  'drow'
+```
 ## [Smallest Integer Finder](https://github.com/McChama/java-katas/blob/master/src/com/company/SmallestIntegerFinder.java)
 Given an array of integers your solution should find the smallest integer.
 
