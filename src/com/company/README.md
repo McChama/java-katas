@@ -84,7 +84,7 @@ Calculate the sum of the numbers in the nth row of this triangle (starting at in
 ```
 
 <details>
-  <summary><strong>DARK ANSWER SPOLIER!</strong></summary>  
+  <summary><strong>DARK ANSWER SPOILER!</strong></summary>  
   I couldn't imagine that this could be the best answer to exercise
 
 ```java
